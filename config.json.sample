@@ -1,0 +1,9 @@
+{
+
+   "url": "https://chat.linagora.com",
+   "wsUrl":  "wss://chat.linagora.com/api/v3/users/websocket",
+   "login": "changeme",
+   "password": "changeme",
+   "logLevel": "warn",
+    "team": "linagora"
+}
